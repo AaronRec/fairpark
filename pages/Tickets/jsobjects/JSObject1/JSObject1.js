@@ -1,6 +1,5 @@
 export default {
 	myFun1() {
-		Image1.setVisibility(true);
 		if(TicketType.selectedOptionValue == "week") {
 			TicketDuration.setVisibility(true);
 		} else {
