@@ -65,7 +65,7 @@
             "isDisabled": false
         },
         "groupButton2": {
-            "onClick": "{{navigateTo('TIcketCenter', {}, 'SAME_WINDOW');}}",
+            "onClick": "{{navigateTo('TicketCenter', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
             "iconName": "add",
             "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
