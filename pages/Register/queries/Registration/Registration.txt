@@ -1,0 +1,2 @@
+INSERT INTO public."users" ("gender", "latitude", "longitude", "dob", "phone", "email", "image", "country", "name", "created_at", "updated_at")
+  VALUES ('', '', '', TIMESTAMP WITH TIME ZONE '2019-07-01 06:30:00 CET', '', '', '', '', '', TIMESTAMP '2019-07-01 10:00:00', TIMESTAMP '2019-07-01 10:00:00');

@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "id": "Login",
+      "isDefault": true
+    },
+    {
+      "id": "Register",
+      "isDefault": false
+    },
+    {
+      "id": "MainApp",
+      "isDefault": false
+    },
+    {
+      "id": "TicketCenter",
+      "isDefault": false
+    },
+    {
+      "id": "Profil",
+      "isDefault": false
+    },
+    {
+      "id": "Tickets",
+      "isDefault": false
+    },
+    {
+      "id": "Maengelmelder",
+      "isDefault": false
+    },
+    {
+      "id": "Parkplatzauslastung",
+      "isDefault": false
+    },
+    {
+      "id": "Parkplatzauslastung",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "6538073195753e1f66b14294",
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "theme",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
+    }
+  },
+  "color": "#C7F3E3",
+  "icon": "car",
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "publishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

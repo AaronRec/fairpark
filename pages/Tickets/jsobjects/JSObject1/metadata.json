@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Tickets",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Tickets_JSObject1",
+  "deleted": false,
+  "gitSyncId": "6538e811b26473000709f850_6565a4e1a4bbf24e588e3d3e"
+}

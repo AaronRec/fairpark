@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "LoginFlow",
+    "pageId": "Login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Login_LoginFlow",
+  "deleted": false,
+  "gitSyncId": "6538e811b26473000709f850_6540cfdc69f6b81bf7c3b9d4"
+}
